@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Redefining Risk"
-date:   2016-03-21 17:09:09 -0400
+date:   2016-02-20 17:09:09 -0400
 categories: life
 ---
 
