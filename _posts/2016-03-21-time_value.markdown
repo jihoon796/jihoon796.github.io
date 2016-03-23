@@ -42,9 +42,11 @@ Now, I don’t mean this to be a “lazy manifesto” – if you’d rather be d
 
 If you feel this way, then you should make it an absolute priority to take control of your time so that you spend it a.) when you want to, b.) with who you want to spend it with, and c.) how you want to spend it. 
 
-I hope I’ve reminded you of the value of your own time (if you’ve forgotten), and I hope you’ll make good decisions with it. I’ll leave you with this simple nugget of wisdom: life is short, but it is up to us to make it sweet. 
+Don't feel guilty, don't feel bad - that's negative energy that will 
 
-**So carpe diem, but memento mori**.
+I hope I’ve reminded you of the value of your own time (if you’ve forgotten). I hope you’ll make good decisions with it. I’ll leave you with this simple nugget of wisdom: life is short, but it is up to us to make it sweet. 
+
+So **carpe diem**, but **memento mori**.
 
 ---
 <br>
