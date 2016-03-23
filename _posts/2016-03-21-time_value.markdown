@@ -5,14 +5,13 @@ date:   2016-03-21 17:09:09 -0400
 categories: life
 ---
 
->To understand the value of a year, talk to a student who has failed an important exam. 
+>"To understand the value of a year, talk to a student who has failed an important exam. 
 To understand the value of a month, talk to a mother who has given birth to a baby a month prematurely. 
 To understand the value of a week, talk to the publisher of a weekly newspaper. 
 To understand the value of an hour, talk to a couple in love who are separated and want only to be together again. 
 To understand the value of a minute, talk to someone who has just missed their train or plane flight. 
 To understand the value of a second, talk to someone who has lost a loved one in an accident. 
-And to understand the value of a millisecond, talk to someone who won the silver medal at the Olympic Games.
-- Anonymous 
+And to understand the value of a millisecond, talk to someone who won the silver medal at the Olympic Games." - Anonymous 
 
 
 Time is the great equalizer of humanity. Each second passes by at exactly the same rate for you as it does for me. <sup>1</sup>
