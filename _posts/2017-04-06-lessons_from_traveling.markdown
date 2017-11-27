@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lessons from Traveling"
-date:   2017-11-06 17:09:09 -0400
+date:   2017-04-06 17:09:09 -0400
 categories: life
 ---
 
