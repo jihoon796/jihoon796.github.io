@@ -13,7 +13,7 @@ I want to: <br>
 **2.) make the world a better place without being cliché**. <br>
 If I had to pick one, I would pick the latter.
 
-I enjoy reading, meeting people of diverse backgrounds, having my beliefs challenged, and dishing out copious amounts of unsolicited life advice. 
+I enjoy reading, meeting people of diverse backgrounds, having my beliefs challenged, and giving out unsolicited life advice. 
 
 Any thoughts? Email me (below), and I'll get back to you.
 

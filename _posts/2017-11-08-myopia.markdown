@@ -1,43 +1,42 @@
 ---
 layout: post
 title:  "Myopia"
-date:   2017-11-06 17:09:09 -0400
+date:   2017-11-27 17:09:09 -0400
 categories: life
 ---
 
->"All journeys have secret destinations of which the traveler is unaware." - Martin Buber
+>"We are living in an interminable succession of absurdities imposed by the myopic logic of short-term thinking." - Jacques-Yves Cousteau
 
 <br>
 Myopia means “nearsightedness”, and it’s a word that’s been on my mind for a while. 
 
-It’s been a few months since I moved to San Francisco from Durham. Since then, I’ve fallen in love with the city and the surrounding Bay Area as a whole. The nature here is breathtaking, the food options are amazing, the people are diverse and enterprising, I could go on all day...
+It’s been a few months since I moved to CA from NC. Since then, I’ve fallen in love with SF and the surrounding Bay Area as a whole. The nature here is breathtaking, the food options are amazing, the people are diverse and enterprising...do I really need to go on?
 
-Although SF isn’t necessarily a huge city (in terms of both land area and population), it is most certainly a cultural behemoth. In the US, it may be the most culturally relevant city outside of New York City and Los Angeles. One is able to fully immerse themselves in any niche or lifestyle one chooses. And it doesn’t matter how unique you believe yourself to be - there is a probably a community of people just like you. 
+Although SF isn’t necessarily a huge city (in terms of both land area and population), it is most certainly a cultural behemoth. It may be the most culturally relevant city in the US outside of New York City and Los Angeles. As such, one is able to fully immerse themselves in any niche or lifestyle one chooses. And it doesn’t matter how unique you believe yourself to be - there is a probably a community of people just like you. 
 
-Despite not taking any of these things for granted, I do have to admit that SF is an extremely polarizing place. There are facets to living here that have made me take a long hard look at myself and my surrounding environment. Sure, my observations can be extrapolated to any other major metropolitan area in the US - but at the same time, they are probably more relevant to the Bay Area than to other places. Out of all of the observations that I've made, one concept has always stuck out in particular to me: 
+Despite my professed love for the city, I do have to admit that this place is far from perfect. There are certain facets to living here that have made me scratch my head and think twice. One thought in particular has been creeping up on me lately, a whisper I hear in my head occasionally: 
 
 <b>SF is out of touch with reality. </b>
-Everyone knows the problems that SF faces - lack of good public transportation (BART, Caltrain, and the Muni systems cannot be considered "good" public transportation by any means), homelessness/drug abuse, rampant property theft, extreme income disparity<sup>2</sup>, and so on. Like many others, I often wonder about how to solve these problems, and of course, there are no easy answers (although some people claim that there are). I believe that barring extreme income disparity<sup>1</sup>, the other problems I've mentioned can actually be solved.
 
-I recently came back from a trip to Korea and Japan, and one of the most striking things I noticed was the lack of homeless people and petty crime in the streets. What do these places have that the SF Bay Area doesn't? Why haven't 
+Everyone knows the problems that SF faces as a city: a lack of good public infrastructure, homelessness/drug abuse, rampant property theft, the crazy cost of living (mostly due to rent), extreme income disparity<sup>1</sup>, and so on. Why is the city out of touch? Well, you have people in Silicon Valley who are slaving away on "innovative" ideas like Juicero and Snapchat<sup>2</sup> (dog filters, anyone?) which are supposedly revolutionizing the world, but they somehow fail to see some of the immediate societal problems right in front of their eyes. I don't necessarily blame these people: this is perhaps a shortcoming of the hyper-capitalist society which we live in today - it optimizes for the wrong output ($$) - but at the same time, I wonder if there's more to it than just blaming the system. And of course, not everyone here is like that. There are plenty of people here who do care about the aforementioned problems. The disappointment that I have is with its proportional mindshare <i>relative</i> to the other things people are working on here. 
 
+<b>How do we solve these issues? </b>
 
-We can change some of the variables in the homelessness equation, but I believe that real change is not yet on the horizon. 
+Like many others, I've often wondered about how to solve some of these issues. Some of the people I've talked to - notably engineers - like to take a somewhat patronizing approach to problem-solving, as if these problems could be "disrupted" away during a weekend hackathon. Others who have lived here long enough have simply become jaded to many of these issues, as there realistically isn't much that a single individual can do to fix them...or so I've heard.
 
-- Gini coefficient is on par with Rwanda (http://www.sfgate.com/bayarea/article/Income-inequality-on-par-with-developing-nations-5486434.php)
-- Bay Area politics is a constant struggle between the entrenched incumbents vs. the newcomers who often leave after a few years
-- NIMBY-ism, related to incumbents
-- Supply and demand --> distortion of supply through Bay Area politics
-- American culture as one of individualism and diversity, rather than collectivism and unity
-- Perhaps a matter of cultural preference...American dream? But look at NYC as a counter-example
+I'm not going to propose any answers myself. I simply don't have them. But what I am going to do is make an appeal to idealism. I ask you to put your glasses on and see the world for what it is - a rat race indeed, but one where you can decide which course to take. <br><br>
+<b>If you're looking for a job or looking to switch careers, I encourage you to prioritize opportunities with higher social utility.</b><sup>3</sup>. 
 
--- to be continued --
 
 ---
 <br>
 Notes: 
 
-1. The Gini coefficient is one measure of income inequality. SF is, hilariously, on par with Rwanda (http://www.sfgate.com/bayarea/article/Income-inequality-on-par-with-developing-nations-5486434.php)
-2. Some may argue that extreme income disparity is not a problem, that that is the natural Darwinian order of the world. It is my opinion that <i>extreme</i> income disparity carries externalities (https://en.wikipedia.org/wiki/Externality#Negative) that are sufficiently negative to where the most appropriate the most appropriate course of action is to intervene. However, in order to really fix the disparity issue, we would need to reform the entire US tax code to be more progressive and implement a Universal Basic Income program to redistribute wealth efficiently. The goal here is not to create a socialist utopia where no one has any incentive to work (that has been attempted before, albeit unsuccessfully), but to create a safety net to catch people if they fall. Unfortunately, many destitute Americans would rather see themselves as "temporarily embarrased millionaires" and blindly choose follow the dogma of the American Dream. 
+1. The Gini coefficient is one measure of income inequality. SF's Gini coefficient is (hilariously) on par with <a href='http://www.sfgate.com/bayarea/article/Income-inequality-on-par-with-developing-nations-5486434.php'>Rwanda</a>. Although it is my opinion that <i>extreme</i> income disparity carries <a href='https://en.wikipedia.org/wiki/Externality#Negative'>externalities</a> that are negative to the point where it is necessary to intervene, really fixing this issue in any major city would require a nationwide cultural shift. This probably will not happen for a very long time, as many destitute Americans see themselves as "temporarily embarrased millionaires" rather than for who they really are.
+2. <a href='https://www.theverge.com/2017/4/19/15357340/juicero-juicer-not-actually-necessary-for-juicing'>Here's a link to an article written about Juicero</a>. Also, Snapchat is based in Venice, but the point still stands.
+3. I realize that I'm somewhat of a hypocrite, as I currently work as an engineer at a financial technology company. But I'm interested in healthcare and working on transitioning out of finance altogether. 
+4. Major factors which contribute to SF's problems:<br>
+- Bay Area politics is a constant struggle between the entrenched incumbents vs. the newcomers who often leave after a few years. NIMBY-ism is closely related to the incumbent population, and the supply (and therefore price) of real estate is heavily distorted by it. <br>
+- American culture is one of individualism and diversity, rather than collectivism and unity. Although I do believe in the value of political, racial, and socioeconomic diversity, I also believe that this accounts for many of the political failures of the US, on every level of government. <br>
 
 
