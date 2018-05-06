@@ -1,0 +1,44 @@
+---
+layout: post
+title:  "Hedging"
+date:   2018-05-05 17:09:09 -0400
+categories: life
+---
+
+>"I don't really like hedging. <br>To me, if something needs to be hedged, you shouldn't have a position in it." - Stanley Druckenmiller
+
+<br>
+Something I’ve been noticing a lot these days is the practice of hedging, in the linguistical sense. According to Wikipedia, hedging is using language that lessens the impact of an utterance due to constraints on the interaction between the speaker and addressee, such as politeness, softening the blow, avoiding the appearance of bragging and others. Hedges are also considered in Linguistics to be tools of Epistemic modality; allowing the speaker to signal his or her degree of confidence in a connected assertion. <br>
+
+Most people don’t hedge much in a vernacular setting, such as when texting a close friend or when engaging in casual small-talk. And from what I’ve observed, people hedge more when engaging in written communication rather than oral. Understandably, this changes abruptly in more professional settings since people are more careful with what they’re saying and don’t want any chance of miscommunication. <br>
+
+A side effect of overzealous hedging is “flowery” and overly loquacious language that can’t be understood because of the many stipulations associated with each statement that is made. Just read the following sentences<sup>1</sup>:<br><br>
+
++ <i>It may be said that their commitment to some of the social and economic concepts was less strong than it is now.</i>
++ <i>The commitment to their social and economic concepts is stronger now.</i>
+
+OR
+
++ <i>There is every hope that we conceivably complete this project within the allocated time period, barring no further obstacles.</i> 
++ <i>We will finish this project by the deadline.</i><br><br>
+
+The first sentence in each example evokes a negative emotional response from me. I do not care which statement is more “accurate” - there’s no need to be pedantic as long as the main message is communicated clearly.  Of course, I understand the need for some hedging - I’m just not a fan of the overzealous type. The opposite of overly hedged language is bombastic language, and I’m not a fan of that either (e.g. Donald Trump)<sup>2</sup>. <br>
+
+I was having a brainstorming session with a friend/coworker of mine one day, and I noticed that while voicing his ideas and opinions, he took extra care to phrase his words in a way that they could not be taken apart or criticized easily<sup>3</sup>. The interesting thing I realized was that this took away from actual idea generation because this effort “wasted” precious brain power that he could’ve used on creativity instead. Indeed, once I encouraged him to say whatever he wanted without having to hedge himself, our session took off like a rocket ship and he was able to come up with some very good ideas. <br>
+
+Overzealous hedging is an ineffective way to communicate. Say what you think clearly and concisely. And to the recipient/listener - don’t be pedantic<sup>4</sup>. It doesn’t help anyone. <br><br>
+
+---
+<br>
+Notes: 
+
+1. This style of communication is rampant in academia, which drives me nuts when reading academic papers. But it carries over to the business world as well. 
+
+2. Although many people don't <i>like</i> his style of communication, there's no doubt that it's effective. He's a demagogue that gets his message across very clearly. 
+
+3. One might argue that the recipient has a strong influence on how “hedged” the communication is when conceived. Maybe (like me) you’re afraid that the recipient will ridicule your simplistic/informal/naive-sounding statements. While this could happen, don’t underestimate the effectiveness of good communication in the long run. 
+
+4. And please notify me if I’m being so!
+<br>
+
+

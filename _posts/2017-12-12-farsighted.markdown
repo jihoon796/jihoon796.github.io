@@ -37,8 +37,11 @@ I'm not going to propose any answers myself. I simply don't have them. But what 
 Notes: 
 
 1. The Gini coefficient is one measure of income inequality. SF's Gini coefficient is (hilariously) on par with <a href='http://www.sfgate.com/bayarea/article/Income-inequality-on-par-with-developing-nations-5486434.php'>Rwanda</a>. Although it is my opinion that <i>extreme</i> income disparity carries <a href='https://en.wikipedia.org/wiki/Externality#Negative'>externalities</a> that are negative to the point where it is necessary to intervene, really fixing this issue in any major city would require a nationwide cultural shift. This probably will not happen for a very long time, as many destitute Americans see themselves as "temporarily embarrased millionaires" rather than for who they really are.
+
 2. <a href='https://www.theverge.com/2017/4/19/15357340/juicero-juicer-not-actually-necessary-for-juicing'>Here's a link to an article written about Juicero</a>. Also, Snapchat is based in Venice, but the point still stands.
+
 3. I realize that I'm somewhat of a hypocrite, as I currently work as an engineer at a financial technology company. But I'm interested in healthcare and working on transitioning out of finance altogether. 
+
 4. Major factors which contribute to SF's problems:<br>
 - Bay Area politics is a constant struggle between the entrenched incumbents vs. the newcomers who often leave after a few years. NIMBY-ism is closely related to the incumbent population, and the supply (and therefore price) of real estate is heavily distorted by it. <br>
 - American culture is one of individualism and diversity, rather than collectivism and unity. Although I do believe in the value of political, racial, and socioeconomic diversity, I also believe that this accounts for many of the political failures of the US, on every level of government. <br>
